@@ -1,1 +1,0 @@
-python vhdl_script.py ha.vhdl ha_tb.vhdl
