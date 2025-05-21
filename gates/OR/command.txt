@@ -1,0 +1,2 @@
+python3 vhdl_script.py orgate.vhdl orgate_tb.vhdl
+

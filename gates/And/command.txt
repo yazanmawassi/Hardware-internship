@@ -1,0 +1,2 @@
+python3 vhdl_script.py andgate.vhdl andgate_tb.vhdl
+

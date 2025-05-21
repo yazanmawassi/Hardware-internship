@@ -1,0 +1,2 @@
+python3 vhdl_script.py xorgate.vhdl xorgate_tb.vhdl
+
