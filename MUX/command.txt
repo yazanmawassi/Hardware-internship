@@ -1,0 +1,1 @@
+python3 vhdl_script.py and_gate.vhdl not_gate.vhdl or_gate.vhdl mux41.vhdl mux41_tb.vhdl
