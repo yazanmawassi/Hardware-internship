@@ -1,0 +1,1 @@
+python vhdl_script.py encoder42.vhdl encoder42_tb.vhdl
