@@ -1,11 +1,11 @@
 # Hardware-internship
 
 
-🛠️ Project Description: Simulation of Digital Circuits using VHDL
+ Project Description: Simulation of Digital Circuits using VHDL
 
 In this project, we focus on the modeling, simulation, and synthesis of digital circuits using the hardware description language VHDL. The goal is to understand and practically apply the complete design and simulation process of a digital system — from functional modeling to structural implementation.
 
-🌟 Project Goals
+Project Goals
 The main objective is to realistically model the behavior of digital circuits and verify their functionality through simulation. Using VHDL, we aim to:
 
 1- Describe basic logic gates (e.g., AND, OR, NOT, NAND) behaviorally and structurally
@@ -21,7 +21,7 @@ The main objective is to realistically model the behavior of digital circuits an
 6- Experience the connection between description, simulation, and synthesis through hands-on tasks
 
 
-📘 Content Overview
+ Content Overview
 
 1- Introduction to VHDL syntax and structure
 
@@ -40,7 +40,7 @@ The main objective is to realistically model the behavior of digital circuits an
 8- Building complex digital components (e.g., ALUs, FSMs)
 
 
-💡 Why it Matters
+ Why it Matters
 
 Understanding VHDL is essential in digital hardware design — especially in the development of FPGAs, ASICs, and embedded systems. Through practical exercises and realistic examples, we learn how digital systems are not just theoretically designed, but technically implemented and verified through simulation.
 
