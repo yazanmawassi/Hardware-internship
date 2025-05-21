@@ -1,1 +1,0 @@
-python vhdl_script.py facla.vhdl clag.vhdl cla.vhdl cla_tb.vhdl
