@@ -1,2 +1,0 @@
-python3 vhdl_script.py nandgate.vhdl nandgate_tb.vhdl
-

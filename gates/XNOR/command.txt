@@ -1,2 +1,0 @@
-python3 vhdl_script.py xnorgate.vhdl xnorgate_tb.vhdl
-
